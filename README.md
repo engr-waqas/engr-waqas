@@ -1,10 +1,10 @@
 # 💫 Welcome to my GitHub! 👋
 
-Hello there, I'm Waqas Taj, a seasoned Full Stack Software Engineer with 5 years of experience. My journey in the tech world has primarily revolved around dynamic startups, where I thrive in fast-paced environments. I've played a pivotal role in crafting and maintaining web, mobile, and desktop applications, particularly in the healthcare and fintech sectors.
+Hello! I'm Waqas Taj, a Full Stack Software Engineer with 5 years of experience. I've spent most of my tech career working with innovative startups, where I thrive in fast-paced environments. My main gig involves creating and looking after web, mobile and desktop applications particularly in the healthcare and fintech sectors.
 
-**✨ My Skills:** I'm well-versed in a multitude of essential tech concepts including MVC, TDD & BDD, OOP, unit testing, SDLC, CI/CD, Agile methodologies, and SOLID principles. My coding arsenal spans across various languages and technologies such as Ruby on Rails, JavaScript, Typescript, React, Node, SQL, Cypress, and Playwright.
+**✨ What I Bring to the Table:** I'm a tech whiz with a solid grasp of essential concepts like MVC, TDD & BDD, OOP, unit testing, SDLC, CI/CD, Agile methodologies, and SOLID principles. My coding arsenal spans across various languages and technologies such as Ruby on Rails, JavaScript, Typescript, React, Node, SQL, Cypress, and Playwright.
 
-**🚀 Leadership:** I've taken the helm on end-to-end development for over 6 projects, showcasing my leadership skills in both individual and team settings, across established enterprises and dynamic startups. In my capacity as a Team Lead, I've successfully guided a team of 3 engineers to deliver impactful and user-friendly products.
+**🚀 Leading the Charge:** I've led the charge on more than 6 projects building from scratch to finish showcasing my leadership skills in both individual and team settings, across established enterprises and dynamic startups. As a Team Lead, I've guided a crew of 3 engineers to create impactful and user-friendly products.
 
 ## 🛠 Tech Stack:
 
