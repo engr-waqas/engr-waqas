@@ -8,13 +8,26 @@ Hello! I'm Waqas Taj, a Full Stack Software Engineer with 5 years of experience.
 
 ## 🛠 Tech Stack:
 
-- **Backend**: Ruby on Rails, Django, Node.js, Java
-- **Frontend**: React, JavaScript/TypeScript, Redux, Vue, Angular, HTML, CSS/SASS/SCSS, TailwindCSS, Bootstrap
-- **Testing**: RSpec, Cypress, Selenium, Playwright, Jest, PyTest, and Postman for API testing
-- **Database**: PostgreSQL, MySQL, NoSQL, Redis, MongoDB, ElasticSearch
-- **DevOps**: Heroku, AWS, CI/CD, GCP(Google Cloud Platform), Jenkins, Docker, Kubernetes
-- **API and Integration**: REST/RESTful, GraphQL, FastAPI
-- **Project Management Tools:** GitHub, Git, Jira, Confluence, Figma, 
+#### Backend:
+- Ruby on Rails, Django, Node.js, Java
+
+#### Frontend:
+- React, JavaScript/TypeScript, Redux, Vue, Angular, HTML, CSS/SASS/SCSS, TailwindCSS, Bootstrap
+
+#### Testing:
+- RSpec, Cypress, Selenium, Playwright, Jest, PyTest, and Postman for API testing
+
+#### Database:
+- PostgreSQL, MySQL, NoSQL, Redis, MongoDB, ElasticSearch
+
+#### DevOps:
+- Heroku, AWS, CI/CD, GCP(Google Cloud Platform), Jenkins, Docker, Kubernetes
+
+#### API and Integration:
+- REST/RESTful, GraphQL, FastAPI
+
+#### Project Management Tools & others:
+- GitHub, Git, Jira, Confluence, Figma
 
 ## 🌱 On the Horizon:
 
