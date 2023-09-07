@@ -1,6 +1,6 @@
 # 💫 Welcome to my GitHub! 👋
 
-Hello! I'm Waqas Taj, a Full Stack Software Engineer with 5 years of experience. I've spent most of my tech career working with innovative startups, where I thrive in fast-paced environments. My main gig involves creating and looking after web, mobile and desktop applications particularly in the healthcare and fintech sectors.
+Hello! I'm Waqas Taj, a Full Stack Software Developer and Automation Engineer. I've spent most of my tech career working with innovative startups, where I thrive in fast-paced environments. My main gig involves creating and looking after web, mobile and desktop applications particularly in the healthcare and fintech sectors.
 
 #### ✨ What I Bring to the Table: 
 I'm a tech whiz with a solid grasp of essential concepts like MVC, TDD & BDD, OOP, unit testing, SDLC, CI/CD, Agile methodologies, and SOLID principles. My coding arsenal spans across various languages and technologies such as Ruby on Rails, JavaScript, Typescript, React, Node, SQL, Cypress, and Playwright.
