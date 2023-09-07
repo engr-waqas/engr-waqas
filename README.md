@@ -2,40 +2,40 @@
 
 Hello! I'm Waqas Taj, a Full Stack Software Developer and Automation Engineer. I've spent most of my tech career working with innovative startups, where I thrive in fast-paced environments. My main gig involves creating and looking after web, mobile and desktop applications particularly in the healthcare and fintech sectors.
 
-#### ✨ What I Bring to the Table: 
+### ✨ What I Bring to the Table: 
 I'm a tech whiz with a solid grasp of essential concepts like MVC, TDD & BDD, OOP, unit testing, SDLC, CI/CD, Agile methodologies, and SOLID principles. My coding arsenal spans across various languages and technologies such as Ruby on Rails, JavaScript, Typescript, React, Node, SQL, Cypress, and Playwright.
 
-#### 🚀 Leading the Charge:
+### 🚀 Leading the Charge:
 I've led the charge on more than 6 projects building from scratch to finish showcasing my leadership skills in both individual and team settings, across established enterprises and dynamic startups. As a Team Lead, I've guided a crew of 3 engineers to create impactful and user-friendly products.
 
 ## 🛠 Tech Stack:
 
-#### Backend:
-    Ruby on Rails, Django, Node.js, Java
+### 🌐 Backend:
+    Ruby on Rails, Python, Java, Elixir
 
-#### Frontend:
-    React, JavaScript/TypeScript, Redux, Vue, Angular, HTML, CSS/SASS/SCSS, TailwindCSS, Bootstrap
+### 🌟 Frontend:
+    React, JavaScript, TypeScript, Redux, Vue, Angular, ERB/HTML/HAML/SLIM, CSS/SASS/SCSS, TailwindCSS, Bootstrap
 
-#### Testing & Automation:
-    RSpec, Cypress, Selenium, Playwright, Jest, PyTest, and Postman for API testing
+### 🤖 Testing & Automation:
+    RSpec, Cypress, Selenium, Playwright, Jest, PyTest, and Postman for API testing, Manual Testing
 
-#### Database:
+### 🛢️ Database:
     PostgreSQL, MySQL, Redis, MongoDB, ElasticSearch, NoSQL
 
-#### DevOps:
+### ☁️ DevOps & CI/CD:
     Heroku, AWS, CI/CD, GitHub Actions, Jenkins, CircleCI, GCP(Google Cloud Platform), Docker, Kubernetes
 
-#### API and Integration:
+### 🚀 API and Integration:
     REST/RESTful, GraphQL, FastAPI
 
-#### Project Management Tools & others:
+### 📊 Project Management & Collaboration Tools:
     GitHub, Git, Jira, Confluence, GitLab, Asana, Motion, Figma
 
 ## 🌱 On the Horizon:
 
 - I'm setting my sights on exploring the exciting world of Internet of Things (IoT).
 - I'm always eager to collaborate on open-source projects.
-- Open to connect, collaborate and innovate together! 🌟
+- 🚀 Open to connect, collaborate and innovate together! 🌟
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/m-waqas-taj-0b4763206) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16917889) 
