@@ -2,32 +2,34 @@
 
 Hello! I'm Waqas Taj, a Full Stack Software Engineer with 5 years of experience. I've spent most of my tech career working with innovative startups, where I thrive in fast-paced environments. My main gig involves creating and looking after web, mobile and desktop applications particularly in the healthcare and fintech sectors.
 
-**✨ What I Bring to the Table:** I'm a tech whiz with a solid grasp of essential concepts like MVC, TDD & BDD, OOP, unit testing, SDLC, CI/CD, Agile methodologies, and SOLID principles. My coding arsenal spans across various languages and technologies such as Ruby on Rails, JavaScript, Typescript, React, Node, SQL, Cypress, and Playwright.
+#### ✨ What I Bring to the Table: 
+I'm a tech whiz with a solid grasp of essential concepts like MVC, TDD & BDD, OOP, unit testing, SDLC, CI/CD, Agile methodologies, and SOLID principles. My coding arsenal spans across various languages and technologies such as Ruby on Rails, JavaScript, Typescript, React, Node, SQL, Cypress, and Playwright.
 
-**🚀 Leading the Charge:** I've led the charge on more than 6 projects building from scratch to finish showcasing my leadership skills in both individual and team settings, across established enterprises and dynamic startups. As a Team Lead, I've guided a crew of 3 engineers to create impactful and user-friendly products.
+#### 🚀 Leading the Charge:
+I've led the charge on more than 6 projects building from scratch to finish showcasing my leadership skills in both individual and team settings, across established enterprises and dynamic startups. As a Team Lead, I've guided a crew of 3 engineers to create impactful and user-friendly products.
 
 ## 🛠 Tech Stack:
 
 #### Backend:
-- Ruby on Rails, Django, Node.js, Java
+    Ruby on Rails, Django, Node.js, Java
 
 #### Frontend:
-- React, JavaScript/TypeScript, Redux, Vue, Angular, HTML, CSS/SASS/SCSS, TailwindCSS, Bootstrap
+    React, JavaScript/TypeScript, Redux, Vue, Angular, HTML, CSS/SASS/SCSS, TailwindCSS, Bootstrap
 
-#### Testing:
-- RSpec, Cypress, Selenium, Playwright, Jest, PyTest, and Postman for API testing
+#### Testing & Automation:
+    RSpec, Cypress, Selenium, Playwright, Jest, PyTest, and Postman for API testing
 
 #### Database:
-- PostgreSQL, MySQL, NoSQL, Redis, MongoDB, ElasticSearch
+    PostgreSQL, MySQL, Redis, MongoDB, ElasticSearch, NoSQL
 
 #### DevOps:
-- Heroku, AWS, CI/CD, GCP(Google Cloud Platform), Jenkins, Docker, Kubernetes
+    Heroku, AWS, CI/CD, GitHub Actions, Jenkins, CircleCI, GCP(Google Cloud Platform), Docker, Kubernetes
 
 #### API and Integration:
-- REST/RESTful, GraphQL, FastAPI
+    REST/RESTful, GraphQL, FastAPI
 
 #### Project Management Tools & others:
-- GitHub, Git, Jira, Confluence, Figma
+    GitHub, Git, Jira, Confluence, GitLab, Asana, Motion, Figma
 
 ## 🌱 On the Horizon:
 
