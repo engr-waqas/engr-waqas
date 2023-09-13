@@ -54,7 +54,7 @@ I've led the charge on more than 6 projects building from scratch to finish show
 - 🚀 Open to connect, collaborate and innovate together! 🌟
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/m-waqas-taj-0b4763206) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16917889) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-waqas-taj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16917889) 
 
 <!-- 
 # 💻 Tech Stack:
@@ -62,20 +62,13 @@ I've led the charge on more than 6 projects building from scratch to finish show
 -->
 
 # 📊 GitHub Stats:
-![GitHub metrics](https://metrics.lecoq.io/engr-waqas)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=engr-waqas)  
-
-![](https://gpvc.arturio.dev/engr-waqas)  
+![](https://github-readme-stats.vercel.app/api?username=waqas-taj&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waqas-taj&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=waqas-taj&theme=monokai)<br>
+![](https://github-readme-streak-stats.herokuapp.com?user=waqas-taj&theme=soft-green)<br>
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- 
-### 😂 Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
--->
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
