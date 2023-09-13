@@ -1,6 +1,22 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Waqas+Taj;Full+Stack+Software+Engineer;)](https://git.io/typing-svg)
+
+<h3 align="center"><b><i> Full Stack Software Engineer </i></b></h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ruby+on+Rails+|+React;Automation+|+DevOps+|+Databases;API+Integration+|+Agile+Methodologies;Cypress+|+Playwright+|+TDD&center=true&width=500&height=50">
+  </a>
+</p>
+<br>
+
+<!-- 
+<img src="https://komarev.com/ghpvc/?username=waqas-taj&label=Profile%20views&color=0e75b6&style=flat" alt="WaqasTaj" /> </p>
+[![GitHub followers](https://img.shields.io/github/followers/waqas-taj.svg?style=social&label=followers&maxAge=2592000)](https://github.com/waqas-taj?tab=followers)
+<br>
+-->
+
 # 💫 Welcome to my GitHub! 👋
 
-Hello! I'm Waqas Taj, a Full Stack Software Developer and Automation Engineer. I've spent most of my tech career working with innovative startups, where I thrive in fast-paced environments. My main gig involves creating and looking after web, mobile and desktop applications particularly in the healthcare and fintech sectors.
+Hello! I'm Waqas Taj, a Full Stack Software Developer and Automation Engineer. I've spent most of my tech career working with innovative startups, where I thrive in fast-paced environments. My main gig involves creating and looking after web, mobile and desktop applications particularly in the HR, healthcare and fintech projects.
 
 ### ✨ What I Bring to the Table: 
 I'm a tech whiz with a solid grasp of essential concepts like MVC, TDD & BDD, OOP, unit testing, SDLC, CI/CD, Agile methodologies, and SOLID principles. My coding arsenal spans across various languages and technologies such as Ruby on Rails, JavaScript, Typescript, React, Node, SQL, Cypress, and Playwright.
@@ -17,7 +33,7 @@ I've led the charge on more than 6 projects building from scratch to finish show
     React, JavaScript, TypeScript, Redux, Vue, Angular, ERB/HTML/HAML/SLIM, CSS/SASS/SCSS, TailwindCSS, Bootstrap
 
 ### 🤖 Testing & Automation:
-    RSpec, Cypress, Selenium, Playwright, Jest, PyTest, and Postman for API testing, Manual Testing
+    RSpec, Cypress, Selenium, Playwright, Jest, PyTest, Postman, Test-Driven Development(TDD), and Manual Testing
 
 ### 🛢️ Database:
     PostgreSQL, MySQL, Redis, MongoDB, ElasticSearch, NoSQL
@@ -59,3 +75,8 @@ I've led the charge on more than 6 projects building from scratch to finish show
 ### 😂 Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 -->
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
