@@ -45,7 +45,7 @@ I've led the charge on more than 6 projects building from scratch to finish show
     REST/RESTful, GraphQL, FastAPI
 
 ### 📊 Project Management & Collaboration Tools:
-    GitHub, Git, Jira, Confluence, GitLab, Asana, Notion, Figma, Airtable, Slack, Microsoft Teams
+    GitHub, Git, Jira, Confluence, GitLab, Asana, Notion, Figma, Airtable, Slack, Microsoft Office 365
 
 ## 🌱 On the Horizon:
 
